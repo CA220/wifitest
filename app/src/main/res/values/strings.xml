@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">wifitest</string>
+
+    <string name="wifi_status_with_ssid" />
+    <string name="wifi_status">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string>
+</resources>
